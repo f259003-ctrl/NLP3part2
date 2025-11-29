@@ -1,0 +1,178 @@
+{
+  "confidentiality_clause": {
+    "rule_id": "confidentiality_clause",
+    "rule_name": "Confidentiality Clause Presence",
+    "compliance_status": "Error",
+    "evidence": "Error during analysis: 404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "confidence": "Low",
+    "remediation": "Unable to provide remediation due to analysis error",
+    "category": "Confidentiality",
+    "severity": "High",
+    "relevant_sections": []
+  },
+  "term_duration": {
+    "rule_id": "term_duration",
+    "rule_name": "Contract Term Duration",
+    "compliance_status": "Error",
+    "evidence": "Error during analysis: 404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "confidence": "Low",
+    "remediation": "Unable to provide remediation due to analysis error",
+    "category": "Term",
+    "severity": "High",
+    "relevant_sections": []
+  },
+  "termination_clause": {
+    "rule_id": "termination_clause",
+    "rule_name": "Termination Clause",
+    "compliance_status": "Error",
+    "evidence": "Error during analysis: 404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "confidence": "Low",
+    "remediation": "Unable to provide remediation due to analysis error",
+    "category": "Termination",
+    "severity": "High",
+    "relevant_sections": []
+  },
+  "governing_law": {
+    "rule_id": "governing_law",
+    "rule_name": "Governing Law Clause",
+    "compliance_status": "Error",
+    "evidence": "Error during analysis: 404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "confidence": "Low",
+    "remediation": "Unable to provide remediation due to analysis error",
+    "category": "Legal",
+    "severity": "Medium",
+    "relevant_sections": []
+  },
+  "indemnification": {
+    "rule_id": "indemnification",
+    "rule_name": "Indemnification Clause",
+    "compliance_status": "Error",
+    "evidence": "Error during analysis: 404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "confidence": "Low",
+    "remediation": "Unable to provide remediation due to analysis error",
+    "category": "Liability",
+    "severity": "High",
+    "relevant_sections": []
+  },
+  "ip_ownership": {
+    "rule_id": "ip_ownership",
+    "rule_name": "Intellectual Property Ownership",
+    "compliance_status": "Error",
+    "evidence": "Error during analysis: 404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "confidence": "Low",
+    "remediation": "Unable to provide remediation due to analysis error",
+    "category": "Intellectual Property",
+    "severity": "High",
+    "relevant_sections": []
+  },
+  "payment_terms": {
+    "rule_id": "payment_terms",
+    "rule_name": "Payment Terms",
+    "compliance_status": "Error",
+    "evidence": "Error during analysis: 404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "confidence": "Low",
+    "remediation": "Unable to provide remediation due to analysis error",
+    "category": "Financial",
+    "severity": "High",
+    "relevant_sections": []
+  },
+  "warranties": {
+    "rule_id": "warranties",
+    "rule_name": "Warranties and Representations",
+    "compliance_status": "Error",
+    "evidence": "Error during analysis: 404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "confidence": "Low",
+    "remediation": "Unable to provide remediation due to analysis error",
+    "category": "Liability",
+    "severity": "Medium",
+    "relevant_sections": []
+  },
+  "limitation_liability": {
+    "rule_id": "limitation_liability",
+    "rule_name": "Limitation of Liability",
+    "compliance_status": "Error",
+    "evidence": "Error during analysis: 404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "confidence": "Low",
+    "remediation": "Unable to provide remediation due to analysis error",
+    "category": "Liability",
+    "severity": "Medium",
+    "relevant_sections": []
+  },
+  "dispute_resolution": {
+    "rule_id": "dispute_resolution",
+    "rule_name": "Dispute Resolution Mechanism",
+    "compliance_status": "Error",
+    "evidence": "Error during analysis: 404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "confidence": "Low",
+    "remediation": "Unable to provide remediation due to analysis error",
+    "category": "Legal",
+    "severity": "Medium",
+    "relevant_sections": []
+  },
+  "assignment_clause": {
+    "rule_id": "assignment_clause",
+    "rule_name": "Assignment Clause",
+    "compliance_status": "Error",
+    "evidence": "Error during analysis: 404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "confidence": "Low",
+    "remediation": "Unable to provide remediation due to analysis error",
+    "category": "Transfer",
+    "severity": "Low",
+    "relevant_sections": []
+  },
+  "force_majeure": {
+    "rule_id": "force_majeure",
+    "rule_name": "Force Majeure Clause",
+    "compliance_status": "Error",
+    "evidence": "Error during analysis: 404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "confidence": "Low",
+    "remediation": "Unable to provide remediation due to analysis error",
+    "category": "Risk",
+    "severity": "Medium",
+    "relevant_sections": []
+  },
+  "notices": {
+    "rule_id": "notices",
+    "rule_name": "Notices Provision",
+    "compliance_status": "Error",
+    "evidence": "Error during analysis: 404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "confidence": "Low",
+    "remediation": "Unable to provide remediation due to analysis error",
+    "category": "Administrative",
+    "severity": "Low",
+    "relevant_sections": []
+  },
+  "entire_agreement": {
+    "rule_id": "entire_agreement",
+    "rule_name": "Entire Agreement Clause",
+    "compliance_status": "Error",
+    "evidence": "Error during analysis: 404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "confidence": "Low",
+    "remediation": "Unable to provide remediation due to analysis error",
+    "category": "Legal",
+    "severity": "Medium",
+    "relevant_sections": []
+  },
+  "severability": {
+    "rule_id": "severability",
+    "rule_name": "Severability Clause",
+    "compliance_status": "Error",
+    "evidence": "Error during analysis: 404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "confidence": "Low",
+    "remediation": "Unable to provide remediation due to analysis error",
+    "category": "Legal",
+    "severity": "Low",
+    "relevant_sections": []
+  },
+  "amendment_process": {
+    "rule_id": "amendment_process",
+    "rule_name": "Amendment Process",
+    "compliance_status": "Error",
+    "evidence": "Error during analysis: 404 POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "confidence": "Low",
+    "remediation": "Unable to provide remediation due to analysis error",
+    "category": "Administrative",
+    "severity": "Low",
+    "relevant_sections": []
+  }
+}

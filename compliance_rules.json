@@ -1,0 +1,98 @@
+{
+  "confidentiality_clause": {
+    "name": "Confidentiality Clause Presence",
+    "description": "Document must contain a confidentiality clause protecting sensitive information",
+    "category": "Confidentiality",
+    "severity": "High"
+  },
+  "term_duration": {
+    "name": "Contract Term Duration",
+    "description": "Contract must specify a clear start and end date or duration",
+    "category": "Term",
+    "severity": "High"
+  },
+  "termination_clause": {
+    "name": "Termination Clause",
+    "description": "Document must include termination conditions and notice period",
+    "category": "Termination",
+    "severity": "High"
+  },
+  "governing_law": {
+    "name": "Governing Law Clause",
+    "description": "Contract must specify the governing law jurisdiction",
+    "category": "Legal",
+    "severity": "Medium"
+  },
+  "indemnification": {
+    "name": "Indemnification Clause",
+    "description": "Must include indemnification provisions for liability protection",
+    "category": "Liability",
+    "severity": "High"
+  },
+  "ip_ownership": {
+    "name": "Intellectual Property Ownership",
+    "description": "Clearly defines ownership of intellectual property created during contract",
+    "category": "Intellectual Property",
+    "severity": "High"
+  },
+  "payment_terms": {
+    "name": "Payment Terms",
+    "description": "Specifies payment amounts, schedules, and methods",
+    "category": "Financial",
+    "severity": "High"
+  },
+  "warranties": {
+    "name": "Warranties and Representations",
+    "description": "Includes appropriate warranties and representations",
+    "category": "Liability",
+    "severity": "Medium"
+  },
+  "limitation_liability": {
+    "name": "Limitation of Liability",
+    "description": "Includes reasonable limitation of liability clauses",
+    "category": "Liability",
+    "severity": "Medium"
+  },
+  "dispute_resolution": {
+    "name": "Dispute Resolution Mechanism",
+    "description": "Specifies dispute resolution process (arbitration, mediation, litigation)",
+    "category": "Legal",
+    "severity": "Medium"
+  },
+  "assignment_clause": {
+    "name": "Assignment Clause",
+    "description": "Addresses whether contract can be assigned to third parties",
+    "category": "Transfer",
+    "severity": "Low"
+  },
+  "force_majeure": {
+    "name": "Force Majeure Clause",
+    "description": "Includes force majeure provisions for unforeseen circumstances",
+    "category": "Risk",
+    "severity": "Medium"
+  },
+  "notices": {
+    "name": "Notices Provision",
+    "description": "Specifies how formal notices should be delivered",
+    "category": "Administrative",
+    "severity": "Low"
+  },
+  "entire_agreement": {
+    "name": "Entire Agreement Clause",
+    "description": "States that the document represents the entire agreement",
+    "category": "Legal",
+    "severity": "Medium"
+  },
+  "severability": {
+    "name": "Severability Clause",
+    "description": "Includes severability clause for invalid provisions",
+    "category": "Legal",
+    "severity": "Low"
+  },
+  "amendment_process": {
+    "name": "Amendment Process",
+    "description": "Specifies how the contract can be amended",
+    "category": "Administrative",
+    "severity": "Low"
+  }
+}
